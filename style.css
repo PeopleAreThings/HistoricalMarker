@@ -79,9 +79,11 @@ a:hover {
   text-align: center;
   box-sizing: border-box;
   background-color: #0A3161;
+  padding: 10px;
   max-width: fit-content;
-  margin-left: 220px;
-  margin-right: 220px;
+  min-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Courier Prime", monospace;
   font-weight: bold;
   font-style: normal;
